@@ -3,7 +3,7 @@ M. Ghafari et al.: Detailed reconstruction of the Iranian COVID-19 epidemic reve
 
 ## Data
 
-`daily_hospital_admissions.csv`: daily confirmed and suspected hospital admissions per province. Data for confirmed hospital admissions goes from 20 Feb 2020 to either last week of August or early September 2021. Data for suspected hospital admissions goes from 20 Feb 2020 to 12 Sep 2021.
+`daily_hospital_admissions.csv`: confirmed and suspected daily hospital admissions per province. Data for confirmed hospital admissions goes from 20 Feb 2020 to either last week of August or early September 2021. Data for suspected hospital admissions goes from 20 Feb 2020 to 12 Sep 2021.
 
 `weekly_deaths_perProvince.csv`: weekly excess deaths per province per age group from week 41 in year 1398 solar hijri to week 26 in year 1400 solar hijri.
 
