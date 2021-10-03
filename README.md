@@ -9,4 +9,6 @@ M. Ghafari et al.: Detailed reconstruction of the Iranian COVID-19 epidemic reve
 
 `cumulative_deaths_perProvince.csv`: total excess deaths per province per age group during the pandemic period (up to week 26 in year 1400 solar hijri) using our standard and conservative estimates.
 
+`age_distribution_perProvince.xlsx`: population size per age-group per 1,000 persons in each province from year 1398 to 1400 in solar hijri calendar.
+
 `raw data.zip`: includes the observed weekly all-cause mortality data from NOCR since the first week in 1394 solar hijri to week 26 in 1400 solar hijri.
